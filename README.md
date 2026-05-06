@@ -3,9 +3,7 @@
 **Przedmiot:** Techniki Kompilacji i Konfiguracji (TKiK)
 **ZESPÓŁ:**
 
-- Bartłomiej Skowron (bskowron@student.agh.edu.pl)
 - Kajetan Skitał (kskital@student.agh.edu.pl)
-- Jan Ster (sterjan@student.agh.edu.pl)
 
 ## Opis projektu
 
